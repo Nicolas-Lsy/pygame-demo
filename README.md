@@ -19,7 +19,9 @@
 
 MyLibrary  库 （test1.py)  
 
-二、  完成屏幕绘制  文字提示  标题提示
-test2.py
+二、  完成屏幕绘制  
+文字提示  标题提示
+test2.py  MyLibrary.py  图形库提交
+三、 完成Food类  
+test3.py  
 
-三、 
