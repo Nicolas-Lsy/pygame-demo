@@ -17,8 +17,8 @@ class Food(MySprite):
 		pygame.draw.circle(image,(250,250,50),(16,16),16,0)
 		self.set_image(image)
 		MySprite.update(self,0,30)
-		self.X = random.randint(0,23)
-		self.Y = random.randint(0,17)
+		self.X = random.randint(0,23) *32
+		self.Y = random.randint(0,17) *32
 
 #creat snake segment class 
 class SnakeSegment(MySprite):
